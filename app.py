@@ -10,4 +10,4 @@ def hello():
 
 @app.route('/test')
 def test():
-  return "<h2>Testing ...</h2>"
+  return "Testing ......"
